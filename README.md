@@ -2,6 +2,9 @@
 lscpu | grep -E '^Thread|^Core|^Socket|^CPU\('
 ```
 ```
+free -g -h -t
+```
+```
 tar -xf
 ```
 ```
