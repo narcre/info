@@ -32,3 +32,8 @@ grep MemTotal /proc/meminfo || free -g
 ```
 Proxy switchyomega
 ```
+```
+.ssh/config
+Host *
+    ServerAliveInterval 240
+```
